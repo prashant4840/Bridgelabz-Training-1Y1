@@ -2,18 +2,15 @@ import java.util.Scanner;
 
 public class AreaOfCircle {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
 
-        // Input radius
-        System.out.print("Enter the radius of the circle: ");
-        double radius = scanner.nextDouble();
+        try (Scanner scanner = new Scanner(System.in)) {
 
-        // Calculate area
-        double area = Math.PI * radius * radius;
+            System.out.print("Enter the radius of the circle: ");
+            double radius = scanner.nextDouble();
 
-        // Output result
-        System.out.println("Area of the circle: " + area);
+            double area = Math.PI * radius * radius;
 
-        scanner.close();
+            System.out.println("Area of the circle: " + area);
+        }
     }
 }
