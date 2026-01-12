@@ -19,5 +19,4 @@ public class AverageOfThreeNumbers {
 
         sc.close();
     }
-    
 }
