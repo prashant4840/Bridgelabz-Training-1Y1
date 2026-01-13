@@ -20,4 +20,5 @@ public class SimpleInterest {
         
         sc.close();
     }
+    
 }
