@@ -15,4 +15,5 @@ public class SquarePerimeter {
 
         scanner.close();
     }
+    
 }
