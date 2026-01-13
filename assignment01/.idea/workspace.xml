@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="506b2d0b-edf4-4290-b551-cb12bab5a330" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basic-programs/AddTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VolumeOfCylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeOfCylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/AddTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/AreaOfCircle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/AverageOfThreeNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/CelsiusToFahrenheit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/Demo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/KilometersToMiles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/PerimeterOfRectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/PowerCalculation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/SimpleInterest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/VolumeOfCylinder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/WelcomeToBridgelabz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AreaOfCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/AreaOfCircle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
