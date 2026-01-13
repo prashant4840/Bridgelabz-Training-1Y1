@@ -10,6 +10,7 @@ int y = 20;
 System.out.println("m1 local var "+ y);
 m2();
 }
+
 public static void main(String[] args){
 int y = 10;
 System.out.println("HelloWorld");
@@ -19,5 +20,6 @@ m1();
 Demo1 obj = new Demo1();
 System.out.println("instance/non-static/object-level var " + obj.z);
 }
+
 }
 
