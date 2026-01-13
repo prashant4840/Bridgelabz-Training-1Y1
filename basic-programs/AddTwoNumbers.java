@@ -14,8 +14,6 @@ public class AddTwoNumbers {
 
         System.out.println("Sum = " + sum);
 
-        
         scanner.close();
     }
-    
 }
