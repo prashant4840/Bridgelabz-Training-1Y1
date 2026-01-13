@@ -8,4 +8,5 @@ public class SamAverage {
 
         System.out.println("Sam's average mark in PCM is " + average);
     }
+    
 }
