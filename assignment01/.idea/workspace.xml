@@ -2,16 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="506b2d0b-edf4-4290-b551-cb12bab5a330" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../programming-constructs/AddTwoNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../programming-constructs/AreaOfCircle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../programming-constructs/AverageOfThreeNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../programming-constructs/CelsiusToFahrenheit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../programming-constructs/KilometersToMiles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../programming-constructs/PerimeterOfRectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../programming-constructs/PowerCalculation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../programming-constructs/SimpleInterest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../programming-constructs/VolumeOfCylinder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../programming-constructs/WelcomeToBridgelabz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basic-programs/AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeOfCylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/VolumeOfCylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/AddTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/AreaOfCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/AverageOfThreeNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/CelsiusToFahrenheit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/KilometersToMiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/PerimeterOfRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/PowerCalculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/SimpleInterest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/VolumeOfCylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Bridgelabz-Training-1Y/WelcomeToBridgelabz.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,24 +30,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="389JHqqP7qRbaItFhRJ1iwYwBmy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "programming-constructs",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/prashantsharma/Bridgelabz-Training-1Y/basic-programs"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;programming-constructs&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/prashantsharma/Bridgelabz-Training-1Y/assignment01&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="506b2d0b-edf4-4290-b551-cb12bab5a330" name="Changes" comment="" />
