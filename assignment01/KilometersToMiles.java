@@ -13,7 +13,5 @@ public class KilometersToMiles {
 
         sc.close();
         
-
-    }
-    
+    }   
 }
