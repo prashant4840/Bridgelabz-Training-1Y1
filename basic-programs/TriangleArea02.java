@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TriangleArea {
+public class TriangleArea02 {
     public static void main(String[] args) {
         double base, height;
 
@@ -17,6 +17,7 @@ public class TriangleArea {
             "The area of the triangle in square inches is " + areaInSqInches +
             " and the area of the triangle in square centimeters is " + areaInSqCm
         );
+
     }
     
 }

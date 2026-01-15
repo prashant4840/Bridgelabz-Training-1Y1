@@ -21,4 +21,5 @@ public class DistanceConverter02 {
         scanner.close();
     }
     
+    
 }

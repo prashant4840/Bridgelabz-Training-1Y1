@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TotalPriceCalculator {
+public class TotalPriceCalculator02 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
@@ -18,6 +18,8 @@ public class TotalPriceCalculator {
         System.out.println("and unit price is INR " + unitPrice);
 
         scanner.close();
+        
     }
-    
+
+
 }

@@ -14,4 +14,5 @@ public class HandshakeCalculator {
 
         scanner.close();
     }
+    
 }

@@ -17,6 +17,7 @@ public class VolumeOfCylinder {
         System.out.println("The volume of the cylinder is: " + volume);
 
         sc.close();
+        
     }
     
 }

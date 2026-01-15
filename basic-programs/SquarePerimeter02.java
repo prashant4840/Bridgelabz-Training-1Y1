@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SquarePerimeter {
+public class SquarePerimeter02 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
@@ -14,6 +14,7 @@ public class SquarePerimeter {
         System.out.println("whose perimeter is " + perimeter);
 
         scanner.close();
+        
     }
     
 }
