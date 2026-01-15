@@ -13,6 +13,7 @@ public class HandshakeCalculator {
         System.out.println("The maximum number of possible handshakes is " + handshakes);
 
         scanner.close();
+        
     }
-    
+
 }
