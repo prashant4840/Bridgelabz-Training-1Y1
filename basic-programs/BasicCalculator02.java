@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BasicCalculator {
+public class BasicCalculator02 {
     public static void main(String[] args) {
         double number1, number2;
 
