@@ -12,8 +12,6 @@ public class AreaOfCircle {
         System.out.println("Area of the circle = " + area);
         
         sc.close();
-    }
-    
-    
+    }   
     
 }
