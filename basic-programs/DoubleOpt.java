@@ -23,6 +23,7 @@ public class DoubleOpt {
         System.out.println(result1 + ", " + result2 + ", " + result3 + ", and " + result4);
 
         scanner.close();
+        
     }
 
     
