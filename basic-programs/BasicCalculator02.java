@@ -19,8 +19,11 @@ public class BasicCalculator02 {
             "The addition, subtraction, multiplication and division value of 2 numbers\n" +
             number1 + " and " + number2 + " is " +
             addition + ", " + subtraction + ", " + multiplication + ", and " + division
+            
         );
-        
+
+
+
     }
     
 }
