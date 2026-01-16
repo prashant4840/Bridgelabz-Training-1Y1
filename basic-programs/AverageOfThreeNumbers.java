@@ -18,6 +18,8 @@ public class AverageOfThreeNumbers {
         System.out.println("Average = " + average);
 
         sc.close();
+
+        
     }
     
     
