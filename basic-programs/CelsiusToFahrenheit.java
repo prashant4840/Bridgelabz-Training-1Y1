@@ -14,6 +14,7 @@ public class CelsiusToFahrenheit {
 
 
         scanner.close();
+        
     }
     
     
