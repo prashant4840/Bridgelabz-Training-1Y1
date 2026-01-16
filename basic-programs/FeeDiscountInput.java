@@ -5,7 +5,9 @@ public class FeeDiscountInput {
         double fee;
         double discountPercent;
 
+
         Scanner input = new Scanner(System.in);
+
 
         fee = input.nextDouble();
         discountPercent = input.nextDouble();
@@ -13,10 +15,12 @@ public class FeeDiscountInput {
         double discount = (fee * discountPercent) / 100;
         double finalFee = fee - discount;
 
+        
         System.out.println(
             "The discount amount is INR " + discount +
             "\nand final discounted fee is INR " + finalFee
         );
+
     }
     
 }
