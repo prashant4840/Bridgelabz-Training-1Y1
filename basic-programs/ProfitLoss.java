@@ -15,6 +15,7 @@ public class ProfitLoss {
             " and the Profit Percentage is " + profitPercentage
         );
         
+        
     }
     
 }
