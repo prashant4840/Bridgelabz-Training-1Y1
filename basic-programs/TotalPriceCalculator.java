@@ -20,5 +20,7 @@ public class TotalPriceCalculator {
         scanner.close();
     }
 
+
+    
     
 }
