@@ -17,6 +17,7 @@ public class PowerCalculation {
         sc.close();
         
     }
+    
 
     
 }
