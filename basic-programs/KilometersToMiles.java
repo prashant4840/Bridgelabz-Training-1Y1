@@ -12,7 +12,9 @@ public class KilometersToMiles {
         System.out.println("Distance in miles = " + miles);
 
         sc.close();
+       
         
     }  
      
+    
 }
