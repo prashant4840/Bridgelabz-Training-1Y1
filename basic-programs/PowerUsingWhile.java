@@ -21,6 +21,5 @@ public class PowerUsingWhile {
 
         System.out.println(number + " raised to the power " + power + " is: " + result);
 
-        sc.close();
     }
 }
