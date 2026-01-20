@@ -14,6 +14,5 @@ public class LeapYearSingleIf {
             System.out.println("Year is not a Leap Year");
         }
 
-        sc.close();
     }
 }
