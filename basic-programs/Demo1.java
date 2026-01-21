@@ -18,6 +18,10 @@ System.out.println("main local var y "+ y);
 m1();
 Demo1 obj = new Demo1();
 System.out.println("instance/non-static/object-level var " + obj.z);
+
+// obj.m3();
+
+System.out.println(args[0]);
 }
 }
 
