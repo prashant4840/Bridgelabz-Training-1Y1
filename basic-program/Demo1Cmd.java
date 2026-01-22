@@ -9,11 +9,15 @@ System.out.println("m2 local var "+ y);
 }
 
 
+
+
 public static void m1(){
 int y = 20;
 System.out.println("m1 local var "+ y);
 m2();
 }
+
+
 
 
 public static void main(String[] args){
