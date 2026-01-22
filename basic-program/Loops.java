@@ -20,7 +20,9 @@ j--;
 
 int k = 10;
 
+
 // do while loops
+
 
 do {
     System.out.println("j : " + j);
