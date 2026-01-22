@@ -26,10 +26,12 @@ m1();
 Demo1Cmd obj = new Demo1Cmd();
 
 
+
 System.out.println("instance/non-static/object-level var " + obj.z);
 System.out.println(args[0]);
 System.out.println(args[0]+args[1]);
 System.out.println(Integer.parseInt(args[0])+Integer.parseInt(args[1]));
+
 
 
  }
