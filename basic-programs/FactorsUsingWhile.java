@@ -21,6 +21,5 @@ public class FactorsUsingWhile {
                 counter++;
             }
         }
-
     }
 }
