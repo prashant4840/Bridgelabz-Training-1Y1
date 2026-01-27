@@ -23,7 +23,6 @@ System.out.println("instance/non-static/object-level var " + obj.z);
 
 System.out.println(args[0]);
 
-
 }
 }
 
