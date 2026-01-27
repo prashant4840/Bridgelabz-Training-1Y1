@@ -24,6 +24,7 @@ System.out.println("main static var x " + x);
 System.out.println("main local var y "+ y);
 m1();
 
+
 CmdAruguments obj = new CmdAruguments();
 
 
