@@ -18,8 +18,5 @@ public class EarthVolume {
             "\nand cubic miles is " + volumeMiles3
         );
     
-    }
-
-    
-    
+    }    
 }
