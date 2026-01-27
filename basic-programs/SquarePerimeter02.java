@@ -16,8 +16,6 @@ public class SquarePerimeter02 {
         System.out.println("whose perimeter is " + perimeter);
 
     
-     
-        
     }
     
 }
