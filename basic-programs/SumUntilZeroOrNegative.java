@@ -20,6 +20,6 @@ public class SumUntilZeroOrNegative {
         System.out.println("The total is");
         System.out.println(total);
 
-       
     }
+    
 }
