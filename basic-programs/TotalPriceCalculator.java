@@ -17,7 +17,7 @@ public class TotalPriceCalculator {
         System.out.println("if the quantity " + quantity);
         System.out.println("and unit price is INR " + unitPrice);
 
-        scanner.close();
+        
     }
 
 
