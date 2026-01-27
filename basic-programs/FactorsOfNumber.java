@@ -18,5 +18,7 @@ public class FactorsOfNumber {
         } else {
             System.out.println("Please enter a positive integer.");
         }
+
     }
+    
 }
