@@ -22,4 +22,5 @@ public class GreatestFactorUsingWhile {
         System.out.println("Greatest factor of " + number + " beside itself is: " + greatestFactor);
 
     }
+    
 }
