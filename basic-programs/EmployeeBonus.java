@@ -19,6 +19,6 @@ public class EmployeeBonus {
             System.out.println(0);
         }
 
-        sc.close();
+        
     }
 }
