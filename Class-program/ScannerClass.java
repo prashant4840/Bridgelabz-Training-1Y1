@@ -6,5 +6,6 @@ public class ScannerClass{
 		
 		int x = in.nextInt();
 		System.out.println("x: "+ x);
+		
 	}
 }
