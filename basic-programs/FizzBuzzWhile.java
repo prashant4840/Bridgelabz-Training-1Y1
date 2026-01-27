@@ -26,6 +26,6 @@ public class FizzBuzzWhile {
             System.out.println("Please enter a positive integer.");
         }
 
-        sc.close();
+        
     }
 }
