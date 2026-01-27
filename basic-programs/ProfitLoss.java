@@ -13,10 +13,6 @@ public class ProfitLoss {
             " and Selling Price is INR " + sellingPrice +
             " The Profit is INR " + profit +
             " and the Profit Percentage is " + profitPercentage
-        );
-        
-        
+        );   
     }
-    
-    
 }
