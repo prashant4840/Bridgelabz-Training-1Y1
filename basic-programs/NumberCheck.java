@@ -15,6 +15,6 @@ public class NumberCheck {
             System.out.println("zero");
         }
 
-        sc.close();
+        
     }
 }
