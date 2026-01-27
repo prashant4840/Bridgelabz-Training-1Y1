@@ -35,6 +35,6 @@ public class FriendsComparison {
             System.out.println("Anthony is the tallest");
         }
 
-        sc.close();
+       
     }
 }
