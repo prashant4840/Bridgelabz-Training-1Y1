@@ -15,7 +15,7 @@ public class SquarePerimeter02 {
         System.out.println("The length of the side is " + side);
         System.out.println("whose perimeter is " + perimeter);
 
-        scanner.close();
+    
      
         
     }
