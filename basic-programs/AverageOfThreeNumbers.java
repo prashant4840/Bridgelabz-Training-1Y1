@@ -16,10 +16,6 @@ public class AverageOfThreeNumbers {
         double average = (num1 + num2 + num3) / 3;
 
         System.out.println("Average = " + average);
-
-
-        
-    }
-    
-    
+   
+    } 
 }
