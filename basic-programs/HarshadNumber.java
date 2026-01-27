@@ -26,5 +26,7 @@ public class HarshadNumber {
             System.out.println(originalNumber + " is not a Harshad Number");
         }
 
+
     }
+    
 }
