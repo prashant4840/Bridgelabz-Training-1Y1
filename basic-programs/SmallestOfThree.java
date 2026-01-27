@@ -19,6 +19,6 @@ public class SmallestOfThree {
             System.out.println("Is the first number the smallest? No");
         }
 
-        sc.close();
+        
     }
 }
