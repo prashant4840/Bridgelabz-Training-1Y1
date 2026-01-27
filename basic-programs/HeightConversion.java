@@ -16,6 +16,6 @@ public class HeightConversion {
         System.out.println("Your height in feet is: " + feet);
         System.out.println("Your height in inches is: " + inches);
 
-        sc.close();
+        
     }
 }
