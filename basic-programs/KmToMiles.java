@@ -8,8 +8,5 @@ public class KmToMiles {
         System.out.println("The distance " + kilometers + " km in miles is " + miles);
 
         
-    }
-
-    
-    
+    }   
 }
