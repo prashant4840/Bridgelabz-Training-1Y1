@@ -22,6 +22,6 @@ public class FactorialWhile {
             System.out.println("Please enter a positive integer.");
         }
 
-        sc.close();
+       
     }
 }
