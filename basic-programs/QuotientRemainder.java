@@ -20,6 +20,6 @@ public class QuotientRemainder {
         System.out.println("The Remainder is: " + remainder);
         System.out.println("of two numbers " + number1 + " and " + number2);
 
-        scanner.close();
+        
     }
 }
