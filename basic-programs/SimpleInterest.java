@@ -17,9 +17,6 @@ public class SimpleInterest {
 
         System.out.println("Simple Interest = " + simpleInterest);
           
-     
-
-        
     }
     
 }
