@@ -17,7 +17,5 @@ public class NaturalNumberSum {
             System.out.println("The number");
             System.out.println("is not a natural number");
         }
-
-        sc.close();
     }
 }
