@@ -31,6 +31,6 @@ public class LargestOfThree {
             System.out.println("Is the third number the largest? No");
         }
 
-        sc.close();
+        
     }
 }
