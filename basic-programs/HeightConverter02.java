@@ -21,11 +21,5 @@ public class HeightConverter02 {
             " while in feet is " + feet +
             " and inches is " + inches
         );
-        
-
     }
-
-    
-    
-    
 }
