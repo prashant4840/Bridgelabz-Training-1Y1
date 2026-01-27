@@ -11,6 +11,6 @@ public class RocketLaunchFor {
             System.out.println(i);
         }
 
-        sc.close();
+        
     }
 }
