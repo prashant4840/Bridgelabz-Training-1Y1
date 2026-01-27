@@ -17,6 +17,6 @@ public class VotingEligibility {
             System.out.println("and cannot vote.");
         }
 
-        sc.close();
+       
     }
 }
