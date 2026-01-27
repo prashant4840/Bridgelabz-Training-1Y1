@@ -20,6 +20,6 @@ public class FactorialFor {
             System.out.println("Please enter a natural number.");
         }
 
-        sc.close();
+
     }
 }
