@@ -19,6 +19,6 @@ public class OddEvenNumbers {
             System.out.println("Please enter a natural number.");
         }
 
-        sc.close();
+        
     }
 }
