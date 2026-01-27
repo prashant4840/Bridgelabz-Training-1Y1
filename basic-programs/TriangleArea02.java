@@ -17,7 +17,5 @@ public class TriangleArea02 {
             "The area of the triangle in square inches is " + areaInSqInches +
             " and the area of the triangle in square centimeters is " + areaInSqCm
         );
-
     }
-    
 }
