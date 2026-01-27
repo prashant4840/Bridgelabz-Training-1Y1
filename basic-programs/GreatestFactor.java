@@ -15,7 +15,6 @@ public class GreatestFactor {
                 break; 
             }
         }
-
         System.out.println("Greatest factor of " + number + " beside itself is: " + greatestFactor);
 
     }
