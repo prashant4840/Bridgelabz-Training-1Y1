@@ -11,8 +11,6 @@ public class CourseFeeDiscount {
             " and final discounted fee is INR " + finalFee
         );
 
-        
-        
     }
     
 }
