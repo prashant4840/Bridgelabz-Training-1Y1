@@ -52,4 +52,5 @@ public class StudentGrade {
         System.out.println("Grade: " + grade);
 
     }
+    
 }
