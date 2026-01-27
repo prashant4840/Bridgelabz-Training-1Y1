@@ -23,6 +23,6 @@ public class FizzBuzz {
             System.out.println("Please enter a positive integer.");
         }
 
-        sc.close();
+        
     }
 }
