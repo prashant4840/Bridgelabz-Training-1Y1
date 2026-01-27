@@ -27,7 +27,7 @@ public class Operators{
           
          System.out.println("divition = " + div);
                     
-        scanner.close();
+        
         
     }
     
