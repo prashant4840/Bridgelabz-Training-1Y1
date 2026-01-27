@@ -13,6 +13,6 @@ public class DivisibleByFive {
             System.out.println("Is the number divisible by 5? No");
         }
 
-        sc.close();
+        
     }
 }
