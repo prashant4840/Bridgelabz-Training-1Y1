@@ -20,6 +20,7 @@ public class ArmstrongNumber {
             originalNumber = originalNumber / 10;
         }
 
+        
         if (sum == number) {
             System.out.println(number + " is an Armstrong Number");
         } else {
