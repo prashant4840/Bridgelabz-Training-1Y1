@@ -20,8 +20,5 @@ public class FeeDiscountInput {
             "The discount amount is INR " + discount +
             "\nand final discounted fee is INR " + finalFee
         );
-
     }
-
-    
 }
