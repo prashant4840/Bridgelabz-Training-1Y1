@@ -20,7 +20,5 @@ public class SumUntilZero {
         System.out.println("The total is");
         System.out.println(total);
 
-        
-        
         }
     }
