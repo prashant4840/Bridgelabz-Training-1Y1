@@ -16,7 +16,6 @@ public class VotingEligibility {
             System.out.println(age);
             System.out.println("and cannot vote.");
         }
-
        
     }
 }
