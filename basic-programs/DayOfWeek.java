@@ -9,6 +9,7 @@ public class DayOfWeek {
         int d0 = (d + x + 31 * m0 / 12) % 7;
         System.out.println(d0);
         
+        
     }
 
 }
