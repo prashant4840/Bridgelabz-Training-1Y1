@@ -11,6 +11,8 @@ public class PensDivision {
             "The Pen Per Student is " + pensPerStudent +
             " and the remaining pen not distributed is " + remainingPens
         );
+
+        
     }
     
 }
