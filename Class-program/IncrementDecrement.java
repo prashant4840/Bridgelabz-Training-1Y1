@@ -8,8 +8,7 @@ public class IncrementDecrement{
 			++i;
 			System.out.println("val" + i++);
 			System.out.println("val" + i++);
-
-
+			
 		    int z=i+ i++ + ++i +i + ++i + i++;
 		    System.out.println("val" + z);
 		    System.out.println("val" + i);
