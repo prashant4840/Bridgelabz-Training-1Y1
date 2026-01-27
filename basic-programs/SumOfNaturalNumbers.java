@@ -30,6 +30,6 @@ public class SumOfNaturalNumbers {
             System.out.println("The number is not a natural number.");
         }
 
-        sc.close();
+       
     }
 }
