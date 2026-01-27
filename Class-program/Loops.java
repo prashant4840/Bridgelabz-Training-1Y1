@@ -34,18 +34,6 @@ do {
  }
 }
 
-// general usecase increment and decrement function
-
-int i =0 ;
-System.out.println("vel " +i);
-i++;
-System.out.println("vel a" + i++);
-System.out.println("vel b" +i);
-i++;
-System.out.println("vel c" + i++);
-
-System.out.println("vel d" + i++);
-
 
 
 
