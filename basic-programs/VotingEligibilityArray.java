@@ -5,7 +5,6 @@ public class VotingEligibilityArray {
 
         Scanner sc = new Scanner(System.in);
 
-      
         int[] ages = new int[10];
 
         for (int i = 0; i < ages.length; i++) {
@@ -28,6 +27,6 @@ public class VotingEligibilityArray {
             }
         }
 
-        sc.close();
+    
     }
 }
