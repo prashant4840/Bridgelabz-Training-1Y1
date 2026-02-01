@@ -12,9 +12,11 @@ int maxDigit=10;
 int digits[]=new int[maxDigit];
 int index=0;
 
+
 while(n>0)
 {
 if(index==maxDigit)
+
 {
 maxDigit=maxDigit+10;
 int temp[]=new int[maxDigit];
