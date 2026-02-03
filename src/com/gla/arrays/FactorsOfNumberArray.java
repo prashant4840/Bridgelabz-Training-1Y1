@@ -40,5 +40,7 @@ class FactorsOfNumberArray
         {
             System.out.print(factors[i]+" ");
         }
+
     }
+
 }
