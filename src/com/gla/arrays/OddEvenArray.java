@@ -50,4 +50,5 @@ class OddEvenArray
             System.out.print(even[i]+" ");
         }
     }
+
 }
