@@ -65,5 +65,7 @@ class BMI2DArray
         {
             System.out.println(personData[i][1]+"  "+personData[i][0]+"  "+personData[i][2]+"  "+weightStatus[i]);
         }
+        
     }
+
 }
