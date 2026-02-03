@@ -52,4 +52,5 @@ class NumberCheckArray
             System.out.println("First element is less than last element");
         }
     }
+
 }
