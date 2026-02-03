@@ -56,4 +56,5 @@ class LargestSecondLargestArray
         System.out.println("Largest digit = "+largest);
         System.out.println("Second largest digit = "+second);
     }
+
 }
