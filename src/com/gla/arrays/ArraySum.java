@@ -38,5 +38,7 @@ class ArraySum
         }
 
         System.out.println("Total sum : "+total);
+
+        
     }
 }
