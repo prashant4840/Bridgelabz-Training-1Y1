@@ -45,5 +45,7 @@ public class FizzBuzzArray
         {
             System.out.println("Position "+(i+1)+" = "+arr[i]);
         }
+
     }
+
 }
