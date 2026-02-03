@@ -1,0 +1,84 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"404fb335-b337-4f25-b63f-55a42c8178cc\" name=\"Changes\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\n  \"lastFilter\": {\n    \"state\": \"OPEN\",\n    \"assignee\": \"prashant4840\"\n  }\n}]]></component>\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\n  \"selectedUrlAndAccountId\": {\n    \"url\": \"https://github.com/prashant4840/Bridgelabz-Training-1Y1.git\",\n    \"accountId\": \"3d253d96-2f6e-4c20-b998-7abac72bc4e0\"\n  }\n}]]></component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 6\n}</component>\n  <component name=\"ProjectId\" id=\"383xeqXK8qgshzRxZfmMTrLouFe\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Application.AverageOfThreeNumbers.executor\": \"Run\",\n    \"Application.CelsiusToFahrenheit.executor\": \"Run\",\n    \"Application.Demo1.executor\": \"Run\",\n    \"Application.HelloWorld.executor\": \"Run\",\n    \"Application.PerimeterOfRectangle.executor\": \"Run\",\n    \"Application.PowerCalculation.executor\": \"Run\",\n    \"Application.SumOfTwoNumbers.executor\": \"Run\",\n    \"Application.WelcomeToBridgelabz.executor\": \"Run\",\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252\": \"true\",\n    \"RunOnceActivity.git.unshallow\": \"true\",\n    \"git-widget-placeholder\": \"java-arrays\",\n    \"kotlin-language-version-configured\": \"true\",\n    \"last_opened_file_path\": \"/Users/prashantsharma/New-Folder/Bridgelabz-Training-1Y\"\n  }\n}]]></component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"404fb335-b337-4f25-b63f-55a42c8178cc\" name=\"Changes\" comment=\"\" />\n      <created>1768042153282</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1768042153282</updated>\n    </task>\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 6d86bee58475d5988f896fc7a14b62a537ef4a03)
++++ b/.idea/workspace.xml	(date 1770134142820)
+@@ -12,18 +12,18 @@
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
+-    "state": "OPEN",
+-    "assignee": "prashant4840"
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;prashant4840&quot;
+   }
+-}]]></component>
+-  <component name="GithubPullRequestsUISettings"><![CDATA[{
+-  "selectedUrlAndAccountId": {
+-    "url": "https://github.com/prashant4840/Bridgelabz-Training-1Y1.git",
+-    "accountId": "3d253d96-2f6e-4c20-b998-7abac72bc4e0"
++}</component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/prashant4840/Bridgelabz-Training-1Y1.git&quot;,
++    &quot;accountId&quot;: &quot;3d253d96-2f6e-4c20-b998-7abac72bc4e0&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 6
+ }</component>
+@@ -32,25 +32,28 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Application.AverageOfThreeNumbers.executor": "Run",
+-    "Application.CelsiusToFahrenheit.executor": "Run",
+-    "Application.Demo1.executor": "Run",
+-    "Application.HelloWorld.executor": "Run",
+-    "Application.PerimeterOfRectangle.executor": "Run",
+-    "Application.PowerCalculation.executor": "Run",
+-    "Application.SumOfTwoNumbers.executor": "Run",
+-    "Application.WelcomeToBridgelabz.executor": "Run",
+-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "git-widget-placeholder": "java-arrays",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "/Users/prashantsharma/New-Folder/Bridgelabz-Training-1Y"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Application.AverageOfThreeNumbers.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CelsiusToFahrenheit.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Demo1.executor&quot;: &quot;Run&quot;,
++    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PerimeterOfRectangle.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PowerCalculation.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SumOfTwoNumbers.executor&quot;: &quot;Run&quot;,
++    &quot;Application.WelcomeToBridgelabz.executor&quot;: &quot;Run&quot;,
++    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;java-arrays&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;/Users/prashantsharma/New-Folder/Bridgelabz-Training-1Y&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+       <changelist id="404fb335-b337-4f25-b63f-55a42c8178cc" name="Changes" comment="" />
