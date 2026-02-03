@@ -46,6 +46,9 @@ class DigitFrequencyArray
             {
                 System.out.println(i+" = "+freq[i]);
             }
+
         }
+
     }
+
 }
