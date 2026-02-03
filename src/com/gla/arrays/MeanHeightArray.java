@@ -25,4 +25,5 @@ class MeanHeightArray
         double mean=sum/heights.length;
         System.out.println("Mean height of the football team: "+mean);
     }
+
 }
