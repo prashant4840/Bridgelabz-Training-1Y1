@@ -83,5 +83,7 @@ class StudentGradeArray
         {
             System.out.println(physics[i]+"  "+chemistry[i]+"  "+maths[i]+"  "+percentage[i]+"  "+grade[i]);
         }
+
     }
+
 }
