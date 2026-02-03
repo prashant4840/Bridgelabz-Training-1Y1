@@ -57,5 +57,6 @@ class BonusCalculatorArray
         System.out.println("Total Old Salary : "+totalOldSalary);
         System.out.println("Total Bonus : "+totalBonus);
         System.out.println("Total New Salary : "+totalNewSalary);
+        
     }
 }

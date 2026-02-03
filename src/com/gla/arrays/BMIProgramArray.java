@@ -50,5 +50,7 @@ class BMIProgram
         {
             System.out.println(height[i]+"  "+weight[i]+"  "+bmi[i]+"  "+status[i]);
         }
+        
     }
+
 }
