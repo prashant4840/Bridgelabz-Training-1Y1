@@ -31,5 +31,7 @@ class VotingEligibilityArray
                 System.out.println("The student with age "+age[i]+" cannot vote");
             }
         }
+
     }
+
 }
