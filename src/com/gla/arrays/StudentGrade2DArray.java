@@ -82,5 +82,7 @@ class StudentGrade2DArray
         {
             System.out.println(marks[i][0]+"  "+marks[i][1]+"  "+marks[i][2]+"  "+percentage[i]+"  "+grade[i]);
         }
+
     }
+
 }
