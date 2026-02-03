@@ -46,5 +46,7 @@ class ReverseNumberArray
         {
             System.out.print(reverse[i]);
         }
+
     }
+
 }
