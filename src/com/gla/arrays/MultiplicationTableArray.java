@@ -25,4 +25,5 @@ class MultiplicationTableArray
             System.out.println(number+" * "+i+" = "+table[i-1]);
         }
     }
+
 }
