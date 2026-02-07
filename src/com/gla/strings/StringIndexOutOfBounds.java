@@ -1,5 +1,6 @@
 package com.gla.arrays;
 
+
 import java.util.Scanner;
 
 public class StringIndexOutOfBoundsDemo {
