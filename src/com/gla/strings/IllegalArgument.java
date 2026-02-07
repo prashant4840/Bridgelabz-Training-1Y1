@@ -2,7 +2,7 @@ package com.gla.arrays;
 
 import java.util.Scanner;
 
-public class IllegalArgumentDemo {
+public class IllegalArgument {
 
     public static void generateException(String text) {
         System.out.println(text.substring(5, 2));
