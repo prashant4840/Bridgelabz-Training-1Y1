@@ -1,5 +1,6 @@
 package com.gla.arrays;
 
+
 public class NullPointerDemo {
 
     public static void generateException() {
