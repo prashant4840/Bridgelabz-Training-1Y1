@@ -2,6 +2,7 @@ package com.gla.arrays;
 
 import java.util.Scanner;
 
+
 class StudentGrade2DArray
 {
     public static void main(String args[])
