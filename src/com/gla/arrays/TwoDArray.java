@@ -36,6 +36,6 @@ public class TwoDArray
         System.out.println("1D Array elements");
         for (int i = 0; i < k; i++) {
             System.out.print(arr[i] + " ");
-        }ss
+        }
     }
 }
