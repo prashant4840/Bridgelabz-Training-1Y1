@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class BMI {
 
+    
     public static String[] calculateBMI(double weight, double heightCm) {
         double heightM = heightCm / 100;
         double bmi = weight / (heightM * heightM);
