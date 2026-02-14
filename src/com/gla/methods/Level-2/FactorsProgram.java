@@ -18,6 +18,7 @@ public class FactorsProgram {
             if (n % i == 0) factors[k++] = i;
         }
 
+        
         return factors;
     }
 
