@@ -21,4 +21,5 @@ public class SumNaturalNumbers {
 
         System.out.println("Sum of " + n + " natural numbers is " + result);
     }
+    
 }
