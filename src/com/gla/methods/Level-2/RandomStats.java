@@ -43,4 +43,5 @@ public class RandomStats {
         System.out.println("Min: " + (int)result[1]);
         System.out.println("Max: " + (int)result[2]);
     }
+    
 }
