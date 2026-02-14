@@ -35,4 +35,5 @@ public class LineAndDistance {
         System.out.println("Euclidean Distance: " + distance);
         System.out.println("Equation of Line: y = " + line[0] + "x + " + line[1]);
     }
+    
 }
