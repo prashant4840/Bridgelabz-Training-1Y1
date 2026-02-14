@@ -23,4 +23,5 @@ public class SimpleInterest {
                 ", Rate of Interest " + rate +
                 " and Time " + time);
     }
+    
 }
