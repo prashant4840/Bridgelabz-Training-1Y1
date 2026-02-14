@@ -31,4 +31,5 @@ public class SmallestLargest {
         System.out.println("Smallest: " + result[0]);
         System.out.println("Largest: " + result[1]);
     }
+    
 }
