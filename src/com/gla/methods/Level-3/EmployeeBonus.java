@@ -60,4 +60,5 @@ public class EmployeeBonus {
         double[][] result = calculateNewSalaryAndBonus(data);
         displaySummary(result);
     }
+    
 }
