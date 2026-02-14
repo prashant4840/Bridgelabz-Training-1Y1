@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="404fb335-b337-4f25-b63f-55a42c8178cc" name="Changes" comment="" />
+    <list default="true" id="404fb335-b337-4f25-b63f-55a42c8178cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Access Modifiers/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Access Modifiers/CarRental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Access Modifiers/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Access Modifiers/HotelBooking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Access Modifiers/LibraryBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Access Modifiers/Person.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
