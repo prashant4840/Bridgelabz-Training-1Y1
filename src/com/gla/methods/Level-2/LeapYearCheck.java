@@ -22,5 +22,7 @@ public class LeapYearCheck {
         } else {
             System.out.println("Not a Leap Year");
         }
+
     }
+
 }
