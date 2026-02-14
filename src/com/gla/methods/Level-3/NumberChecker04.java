@@ -67,4 +67,5 @@ public class NumberChecker04 {
         System.out.println("Automorphic: " + isAutomorphic(number));
         System.out.println("Buzz: " + isBuzz(number));
     }
+    
 }
