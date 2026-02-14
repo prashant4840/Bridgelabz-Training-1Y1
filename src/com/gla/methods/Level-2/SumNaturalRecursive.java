@@ -35,5 +35,7 @@ public class SumNaturalRecursive {
         } else {
             System.out.println("Results are different");
         }
+
     }
+    
 }
