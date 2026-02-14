@@ -5,33 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="404fb335-b337-4f25-b63f-55a42c8178cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 2/BMICalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 2/FactorsProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 2/FriendsInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 2/LeapYearCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 2/NumberCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 2/Quadratic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 2/RandomStats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 2/StudentVoteChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 2/SumNaturalRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 2/UnitConvertor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 2/UnitConvertor02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 2/UnitConvertor03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 3/CalendarDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 3/CollinearPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 3/EmployeeBonus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 3/FactorsUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 3/FootballTeamHeights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 3/LineAndDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 3/MatrixAdvanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 3/MatrixOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 3/NumberChecker01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 3/NumberChecker02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 3/NumberChecker03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 3/NumberChecker04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 3/NumberChecker05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 3/OTPGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level 3/StudentScoreCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level-1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level-1/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level-1/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level-1/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level-2/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level-2/CartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level-2/MovieTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level-2/PalindromeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level-2/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "prashant4840"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;prashant4840&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/prashant4840/Bridgelabz-Training-1Y.git",
-    "accountId": "3d253d96-2f6e-4c20-b998-7abac72bc4e0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/prashant4840/Bridgelabz-Training-1Y.git&quot;,
+    &quot;accountId&quot;: &quot;3d253d96-2f6e-4c20-b998-7abac72bc4e0&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -80,7 +62,8 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "methods",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/prashantsharma/Bridgelabz-Training-1Y"
+    "last_opened_file_path": "/Users/prashantsharma/Bridgelabz-Training-1Y",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
   <component name="TaskManager">
