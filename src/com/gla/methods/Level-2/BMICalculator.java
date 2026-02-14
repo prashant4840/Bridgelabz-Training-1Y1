@@ -52,5 +52,7 @@ public class BMICalculator {
         calculateBMI(persons);
         String[] status = getBMIStatus(persons);
         display(persons, status);
+        
     }
+
 }
