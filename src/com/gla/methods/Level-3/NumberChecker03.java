@@ -84,4 +84,5 @@ public class NumberChecker03 {
         System.out.println("Palindrome Number: " + isPalindromeNumber(digits));
         System.out.println("Duck Number: " + isDuckNumber(digits));
     }
+    
 }
