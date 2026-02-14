@@ -27,4 +27,5 @@ public class TrigonometricFunctions {
         System.out.println("Cos: " + result[1]);
         System.out.println("Tan: " + result[2]);
     }
+    
 }
