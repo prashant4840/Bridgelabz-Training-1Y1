@@ -17,4 +17,5 @@ public class Handshakes {
 
         System.out.println("Maximum number of handshakes: " + result);
     }
+    
 }
