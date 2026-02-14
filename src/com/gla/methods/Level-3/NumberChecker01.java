@@ -103,4 +103,5 @@ public class NumberChecker01 {
         System.out.println("Smallest: " + small[0]);
         System.out.println("Second Smallest: " + small[1]);
     }
+    
 }
