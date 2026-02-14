@@ -24,5 +24,7 @@ public class NumberSign {
         } else {
             System.out.println("Zero");
         }
+
     }
+    
 }
