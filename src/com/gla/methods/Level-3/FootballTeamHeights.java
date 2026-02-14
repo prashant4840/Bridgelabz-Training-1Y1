@@ -52,4 +52,5 @@ public class FootballTeamHeights {
         System.out.println("Shortest Height: " + findShortest(heights));
         System.out.println("Tallest Height: " + findTallest(heights));
     }
+    
 }
