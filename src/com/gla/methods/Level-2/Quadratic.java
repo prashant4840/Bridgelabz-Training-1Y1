@@ -40,5 +40,7 @@ public class Quadratic {
         } else {
             System.out.println("No real roots");
         }
+
     }
+    
 }
