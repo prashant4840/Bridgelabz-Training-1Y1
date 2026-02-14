@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="404fb335-b337-4f25-b63f-55a42c8178cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level-1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level-1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level-1/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level-1/MobilePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level-2/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level-2/CartItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level-2/MovieTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level-2/PalindromeChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/Level-2/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="404fb335-b337-4f25-b63f-55a42c8178cc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
