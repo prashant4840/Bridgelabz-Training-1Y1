@@ -74,4 +74,5 @@ public class MatrixAdvanced {
 
         System.out.println("Determinant 3x3: " + det3x3(m3));
     }
+    
 }
