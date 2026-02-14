@@ -47,5 +47,7 @@ public class NumberCheck {
         } else {
             System.out.println("First element is less than last");
         }
+
     }
+    
 }
