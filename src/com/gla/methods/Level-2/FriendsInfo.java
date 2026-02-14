@@ -20,7 +20,9 @@ public class FriendsInfo {
             if (heights[i] > heights[maxIndex]) {
                 maxIndex = i;
             }
+
         }
+        
         return maxIndex;
     }
 
