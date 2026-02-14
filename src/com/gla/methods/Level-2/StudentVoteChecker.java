@@ -26,6 +26,9 @@ public class StudentVoteChecker {
             } else {
                 System.out.println("Student " + (i + 1) + " cannot vote");
             }
+
         }
+
     }
+    
 }
