@@ -52,4 +52,5 @@ public class NumberChecker05 {
         System.out.println("Deficient: " + isDeficient(number));
         System.out.println("Strong: " + isStrong(number));
     }
+    
 }
