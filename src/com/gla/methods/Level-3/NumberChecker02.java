@@ -101,5 +101,7 @@ public class NumberChecker02 {
         for (int i = 0; i < freq.length; i++) {
             System.out.println(freq[i][0] + "\t" + freq[i][1]);
         }
+
     }
+    
 }
