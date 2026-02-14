@@ -12,6 +12,7 @@ public class ChocolatesDistribution {
         return new int[]{eachChild, remaining};
     }
 
+    
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
