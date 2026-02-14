@@ -36,5 +36,7 @@ public class OTPGenerator {
         } else {
             System.out.println("Duplicate OTP found");
         }
+
     }
+    
 }
