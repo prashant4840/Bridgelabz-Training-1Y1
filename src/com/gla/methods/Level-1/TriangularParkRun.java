@@ -22,4 +22,5 @@ public class TriangularParkRun {
 
         System.out.println("Number of rounds needed: " + rounds);
     }
+    
 }
